@@ -1,2 +1,2 @@
 # Data-Visualization
-Visualize of Data from "Interactive Data Visualization with Python" Book.
+Visualize data from "Interactive Data Visualization with Python" Book.
